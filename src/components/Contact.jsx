@@ -11,12 +11,12 @@ function Contact() {
     {
       icon: MapPinIcon,
       title: 'Visit Us',
-      details: ['123 Education Street', 'Learning City, ED 12345', 'United States']
+      details: ['KIIT University', 'A Block, Bhubaneswar', 'India']
     },
     {
       icon: PhoneIcon,
       title: 'Call Us',
-      details: ['+1 (555) 123-4567', 'Mon - Fri, 9am - 6pm']
+      details: ['+91 1234567890', 'Mon - Fri, 9am - 6pm']
     },
     {
       icon: EnvelopeIcon,
