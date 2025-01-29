@@ -1,12 +1,4 @@
-# EduHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-rSure! I'll create a comprehensive `README.md` file for your project. Here's a draft:
-
-```markdown
 # EduHub
 
 EduHub is a modern web application designed to provide an interactive platform for online courses. It offers features such as course listings, detailed course information, enrollment forms, and user dashboards.
@@ -100,6 +92,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-Would you like to add or modify any specific sections? Let me know if there's anything else you'd like to include!act/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
