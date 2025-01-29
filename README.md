@@ -1,4 +1,5 @@
 
+
 # EduHub
 
 EduHub is a modern web application designed to provide an interactive platform for online courses. It offers features such as course listings, detailed course information, enrollment forms, and user dashboards.
@@ -18,7 +19,7 @@ To get started with EduHub, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/eduhub.git
+    git clone https://github.com/ravikant-diwakar/eduhub.git
     cd eduhub
     ```
 
@@ -91,4 +92,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
